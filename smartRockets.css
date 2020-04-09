@@ -1,0 +1,73 @@
+#defaultCanvas0 {
+	margin-left: 2%;
+	border: 1px solid blue;
+}
+
+body {
+	/*background: url(https://www.jing.fm/clipimg/full/234-2348690_tumblr-aesthetic-quote-quotes-stars-star-space-circle.png);*/
+	background-color: black;
+}
+
+h1, h4 {
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	color: yellow;
+	animation: blinkingText 5s infinite;
+}
+
+.btn-group {
+
+  border: 0px solid green; 
+  margin-left: 43%;
+  color: white;
+  width: 100%;
+  padding: 10px 10px; 
+  cursor: pointer; 
+  float: left; 
+  padding-bottom: 30px;
+}
+
+
+#restartButton {
+	font-family: 'Press Start 2P', cursive;
+	background-color: #000000; 
+ 	border: none;
+  	color: red;
+  	padding: 15px 15px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	border-radius: 10px;
+  	margin-right: 50px;
+  	animation: blinkingText 5s infinite;
+  	
+}
+
+button:focus {
+    outline:none;
+}
+
+#restartButton:hover {
+	/*background-color: white;*/
+	opacity: 1;
+	color: red;
+	animation: none;
+
+}
+
+
+
+@keyframes blinkingText
+{
+		0%		{ color: #10c018;}
+		10%		{ color: #1056c0;}
+		20%		{ color: #11fa1a;}
+		30%		{ color: #00ffff;}
+		40%		{ color: #04a1d5;}
+		50%		{ color: #00FFFF;}
+		60%		{ color: #00FF00;}
+		70%		{ color: magenta;}
+		80%		{ color: purple;}
+		90%		{ color: white;}
+}
