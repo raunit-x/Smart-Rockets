@@ -1,4 +1,6 @@
 # Smart-Rockets
-The rockets learn to hit the target using Genetic Algorithms.
-You can create obstacles on the fly.
-Hopefully after enough generations the rockets will learn to hit the target and avoid the obstacles.
+<ul>
+<li>The rockets learn to hit the target using Genetic Algorithms.
+<li>You can create obstacles on the fly.
+<li>Hopefully after enough generations the rockets will learn to hit the target and avoid the obstacles.
+<ul>
