@@ -10,3 +10,4 @@
   <li>Epoch iterations: 300</li>
   <li>Mutation Rate: 1%</li>
 </ol>
+<img src = 'Smart Rockets/Screenshot 2020-04-13 at 1.54.02 PM.png' width = 900>
