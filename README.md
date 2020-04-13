@@ -6,8 +6,10 @@
 </ul>
 <h4> The parameters and their values: </h4>
 <ol>
-  <li>Population Size: 100</li>
-  <li>Epoch iterations: 300</li>
-  <li>Mutation Rate: 1%</li>
+  <li><pre>Population Size: 100</pre></li>
+  <li><pre>Epoch iterations: 300</pre></li>
+  <li><pre>Mutation Rate: 1%</pre></li>
 </ol>
-<img src = 'Smart Rockets/Screenshot 2020-04-13 at 1.54.02 PM.png' width = 900>
+<br>
+<img src = 'Screenshot 2020-04-13 at 1.54.02 PM.png' width = 900>
+<h5><pre>           You wait for enought epochs and the rockets will find the target avoiding the obstacles!</pre></h5>
